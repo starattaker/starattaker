@@ -1,80 +1,65 @@
 <div align="center">
-  <h1>Hey, I'm Mohd Faraz Siddiqui! 🚀</h1>
-  <h3>AI Research Engineer | M.Tech Candidate @ IIIT Bhopal</h3>
-  
-  <p>
-    <i>Building intelligent eyes for machines & scalable backends for the web.</i>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mohd%20Faraz%20Siddiqui&fontSize=70&animation=fadeIn" />
+
+  <h3>🌌 AI Researcher | Deep Learning Engineer | Competitive Programmer</h3>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/farazsiddikey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mohdfarazsiddiquil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/starattaker"><img src="https://img.shields.io/badge/CodeChef-Top_2%25-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   </p>
-
-  <a href="https://linkedin.com/in/farazsiddikey">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohdfarazsiddiquil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.codechef.com/users/starattaker">
-    <img src="https://img.shields.io/badge/CodeChef-Top_2%25-brown?style=for-the-badge&logo=codechef" alt="CodeChef" />
-  </a>
 </div>
 
 ---
 
-### ⚡ About Me
+### ⚡ Quick Bio
 
-I am currently pursuing an **M.Tech in Artificial Intelligence** at **IIIT Bhopal**, specialising in Computer Vision and Deep Learning pipelines. I focus on bridging the gap between research concepts and real-world deployment.
+[cite_start]I am an **M.Tech in AI** candidate at **IIIT Bhopal**[cite: 4, 5]. [cite_start]I bridge the gap between academic research and production-grade AI systems, currently focusing on **Dental Radiography** and **Edge Deployment**[cite: 26, 27, 28].
 
-* 🔭 **Current Role:** AI Research Intern at **OralVis**, developing SOTA bone-loss detection models.
-* 🔬 **Research:** Lead at **Axios Club** (IIIT Bhopal); published IEEE work on Hybrid BiLSTM-CNN architectures.
-* 🏆 **Competitive:** Global Rank **#246/15,557** in CodeChef Starters 190.
-* 🎓 **Teaching:** TA for AI/ML courses, mentoring 350+ students.
+* [cite_start]🏆 **GATE Qualified** (2023 & 2024)[cite: 10].
+* [cite_start]🚀 **AI Lead** at Axios Club, IIIT Bhopal[cite: 29, 30].
+* [cite_start]🤖 Specialized in **Computer Vision** (YOLOv8, U-Net) and **NLP**[cite: 13, 28, 30].
 
 ---
 
-### 🛠️ The Arsenal
+### 🛠️ Technical Expertise
 
-| **Domain** | **Technologies** |
+<div align="center">
+
+| Area | Tools & Tech |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white) |
-| **Tools & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) |
+| **Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv) ![Ultralytics](https://img.shields.io/badge/Ultralytics-blue?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-black?style=flat-square) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
 
----
-
-### 📂 Featured Projects
-
-#### 🦷 **Dental Vision: Automated Tooth Numbering**
-> *Developed a CV pipeline for panoramic dental X-rays (FDI System).*
-
-* **The Tech:** YOLOv8, OpenCV, Python.
-* **The Win:** Achieved **mAP@50 of 0.957** and Precision of 0.91.
-* **Logic:** Designed algorithms for arch separation and missing-tooth handling.
-
-#### 🥔 **Potato Disease Detection (Edge AI)**
-> *End-to-end disease classification deployed on mobile.*
-
-* **The Tech:** CNN, TensorFlow Lite, FastAPI, React Native.
-* **The Win:** Reduced model size by **60%** using Quantization for mobile inference.
-* **Scale:** Deployed backend with Google Cloud Functions.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starattaker&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starattaker&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starattaker&theme=radical&hide_border=true" alt="streak stats" />
 </div>
 
 ---
 
+### 📊 Performance Metrics
+
 <div align="center">
-  <i>"Data is the new oil, but AI is the engine."</i><br>
-  <b>Open to collaborations in Computer Vision & Deep Learning.</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=starattaker&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starattaker&theme=tokyonight&layout=compact&hide_border=true" width="41%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starattaker&theme=tokyonight" width="90%" />
+</div>
+
+---
+
+### 📂 Impact Projects
+
+* [cite_start]**Dental AI (YOLOv8):** Automated tooth numbering with **mAP@50 of 0.957**[cite: 13, 17].
+* [cite_start]**Agri-Tech Mobile:** Potato disease detection optimized by **60% via TFLite**[cite: 19, 24].
+* [cite_start]**Research:** Published a hybrid **BiLSTM-CNN** architecture in IEEE Xplore[cite: 40, 41, 42].
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
