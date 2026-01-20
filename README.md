@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" style="object-fit:cover;"/>
   <br/>
   
   # Hi there, I'm Mohd Faraz Siddiqui! 👋
   
   **AI/ML Researcher | Computer Vision Specialist | NLP Enthusiast**
 
-  <a href="https://linkedin.com/in/farazsiddikey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mohdfarazsiddiquil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://codechef.com/users/your_username"><img src="https://img.shields.io/badge/CodeChef-Top%202%25-orange?style=for-the-badge" alt="CodeChef"/></a>
+  <a href="https://linkedin.com/in/farazsiddikey"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohdfarazsiddiqui1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.codechef.com/users/starattaker"><img src="https://img.shields.io/badge/CodeChef-starattaker-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 
 </div>
 
@@ -16,12 +16,13 @@
 
 ### 🚀 **About Me**
 
-[cite_start]I am an **M.Tech Artificial Intelligence scholar at IIIT Bhopal** [cite: 4] with a passion for building scalable Deep Learning pipelines. My work bridges the gap between academic research and real-world deployment, specifically in **HealthTech** and **Computer Vision**.
+I am an **M.Tech Artificial Intelligence scholar at IIIT Bhopal** with a passion for building scalable Deep Learning pipelines. My work bridges the gap between academic research and real-world deployment, specifically in **HealthTech** and **Computer Vision**.
 
-* [cite_start]🔭 **I’m currently working on:** Alveolar bone-loss segmentation models as an **AI Research Intern at OralVis**.
-* [cite_start]🔬 **Research Lead:** Leading the AI/ML research team at **Axios Club**, focusing on CV and NLP[cite: 29].
-* [cite_start]🏆 **Achievements:** Ranked **#246/15,557** globally in CodeChef Starters 190 [cite: 9] [cite_start]and Qualified **GATE 2023 & 2024**[cite: 10].
-* [cite_start]⚡ **Fun fact:** I built a dental X-ray pipeline that automatically numbers teeth using YOLOv8! 
+* 🔭 **Current Role:** Building alveolar bone-loss segmentation models as an **AI Research Intern at OralVis**.
+* 🔬 **Research Lead:** Leading the AI/ML research team at **Axios Club**, driving projects in CV and NLP.
+* 🏆 **Competitive Programming:** Ranked **#246/15,557** globally in CodeChef Starters 190 (Top 2%).
+* 🎓 **Achievements:** Qualified **GATE 2023 & 2024** and Grand Finalist in Smart India Hackathon 2024.
+* ⚡ **Fun fact:** I built a dental X-ray pipeline that automatically numbers teeth using YOLOv8!
 
 ---
 
@@ -45,19 +46,19 @@
 #### 🦷 **Automated Tooth Numbering (YOLOv8)**
 *Developed a Computer Vision pipeline for panoramic dental X-rays.*
 * **Tech:** YOLOv8, Python, Polygon Annotation.
-* [cite_start]**Impact:** Achieved **mAP@50 of 0.957** across 32 dental classes[cite: 17].
-* [cite_start]**Features:** Handles arch separation, quadrant division, and missing teeth handling[cite: 18].
+* **Impact:** Achieved **mAP@50 of 0.957** across 32 dental classes.
+* **Features:** Handles arch separation, quadrant division, and missing teeth handling.
 
 #### 🥔 **Potato Plant Disease Detection**
 *End-to-End Deep Learning pipeline for agricultural health monitoring.*
 * **Tech:** CNN, TensorFlow Lite, FastAPI, React Native.
-* [cite_start]**Deployment:** Optimized model size by **60%** using quantization for mobile inference[cite: 24].
-* [cite_start]**Backend:** Scalable inference using TF Serving & Google Cloud Functions[cite: 23].
+* **Deployment:** Optimized model size by **60%** using quantization for mobile inference.
+* **Backend:** Scalable inference using TF Serving & Google Cloud Functions.
 
 ---
 
 ### 📄 **Research & Publications**
-* [cite_start]**Comparative Study of Deep Learning Models for Sentiment Analysis** - *IEEE Xplore*[cite: 41, 42].
+* **Comparative Study of Deep Learning Models for Sentiment Analysis** - *IEEE Xplore*
     * Proposed a Hybrid BiLSTM-CNN architecture for social media data analysis.
 
 ---
