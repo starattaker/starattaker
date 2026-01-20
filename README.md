@@ -19,10 +19,9 @@
 I am an **M.Tech Artificial Intelligence scholar at IIIT Bhopal** with a passion for building scalable Deep Learning pipelines. My work bridges the gap between academic research and real-world deployment, specifically in **HealthTech** and **Computer Vision**.
 
 * 🔭 **Current Role:** Building alveolar bone-loss segmentation models as an **AI Research Intern at OralVis**.
-* 🔬 **Research Lead:** Leading the AI/ML research team at **Axios Club**, driving projects in CV and NLP.
+* 🔬 **Research Lead:** Leading the AI/ML research team at **Axios Club**, driving projects in CV and ML.
 * 🏆 **Competitive Programming:** Ranked **#246/15,557** globally in CodeChef Starters 190 (Top 2%).
 * 🎓 **Achievements:** Qualified **GATE 2023 & 2024** and Grand Finalist in Smart India Hackathon 2024.
-* ⚡ **Fun fact:** I built a dental X-ray pipeline that automatically numbers teeth using YOLOv8!
 
 ---
 
