@@ -4,7 +4,7 @@
   
   # Hi there, I'm Mohd Faraz Siddiqui! 👋
   
-  **AI/ML Researcher | Computer Vision Specialist | NLP Enthusiast**
+  **AI/ML Researcher | Computer Vision Specialist | ML Enthusiast**
 
   <a href="https://linkedin.com/in/farazsiddikey"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mohdfarazsiddiqui1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
